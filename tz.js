@@ -1,1 +1,1 @@
-窗户。地点。href = 'http://www.baidu.com'
+window.location.href='http://www.baidu.com'
