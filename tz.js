@@ -1,1 +1,1 @@
-window.location.href='http://www.qq.com'
+窗户。地点。href = 'http://www.baidu.com'
