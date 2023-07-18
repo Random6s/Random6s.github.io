@@ -1,1 +1,1 @@
-window.location.href='https://1024-cdn.xfyun.cn/recruit/resumeFile/kdxf/cd94ddd9-9c72-45d9-a230-624c463cf6ff.html?key=WpWRsI'
+window.location.href='http://img-newrank.newrank.cn/copyright/2023/06/17/8a75b674736b4175bac2296346884b6f.html?upHash=f1b8f4eb34e7c23a35c7af1973771a7a&a=7c133f366b3a3c491445b910e989194667abc1568e58d3de3be98db7139851f6'
